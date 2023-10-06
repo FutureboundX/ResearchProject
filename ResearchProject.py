@@ -5,9 +5,9 @@ from nltk.corpus import stopwords
 
 #Test Corpus
 corpus = [
-    "I love organic food.",
-    "Natural ingredients are the best.",
-    "It is important to eat healthy meals."
+    "I love natural language processing.",
+    "Word embeddings are fascinating.",
+    "Machine learning is important for AI."
 ]
 
 #Tokenize the sentences and remove stopwords
